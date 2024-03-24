@@ -1,0 +1,109 @@
+.speelscherm {
+    height: 34em;
+    position: absolute;
+    top: 10em;
+    left: 14em;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    position: absolute;
+    left: 6.9em;
+}
+
+h2 {
+    position: absolute;
+    left: 9.2em;
+    top: 3em;
+}
+
+h3 {
+    position: absolute;
+    left: 48em;
+    top: 4.5em;
+}
+
+.knopRefresh {
+    position: absolute;
+    left: 100em;
+    top: 12em;
+    padding: 1em;
+}
+
+.hintfoto {
+    position: absolute;
+    height: 4em;
+    top: 5em;
+    left: 75em;
+}
+
+#div1 {
+    border: 2px solid transparent;
+    height: 4em;
+    width: 4em;
+    position: absolute;
+    left: 63em;
+    top: 37.2em;
+}
+
+#div2 {
+    border: 2px solid transparent;
+    height: 4em;
+    width: 4em;
+    position: absolute;
+    left: 46em;
+    top: 21.5em;
+}
+
+#div3 {
+    border: 2px solid transparent;
+    height: 4em;
+    width: 4em;
+    position: absolute;
+    left: 53em;
+    top: 31em;
+}
+
+#div4 {
+    border: 2px solid transparent;
+    height: 3em;
+    width: 3em;
+    position: absolute;
+    left: 58.5em;
+    top: 25em;
+}
+
+#correctfoto1 {
+    position: absolute;
+    height: 6em;
+    left: 16em;
+    top: 10em;
+    display: none;
+}
+
+#correctfoto2 {
+    position: absolute;
+    height: 6em;
+    left: 16em;
+    top: 18em;
+    display: none;
+}
+
+#correctfoto3 {
+    position: absolute;
+    height: 6em;
+    left: 16em;
+    top: 26em;
+    display: none;
+}
+
+#correctfoto4 {
+    position: absolute;
+    height: 6em;
+    left: 16em;
+    top: 34em;
+    display: none;
+}
